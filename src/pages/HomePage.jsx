@@ -58,7 +58,7 @@ export default function HomePage() {
           <h1 className="text-6xl md:text-7xl font-bold bg-gradient-primary bg-clip-text text-transparent drop-shadow-lg">
             RecipeGenie
           </h1>
-          <p className="text-lg text-gray-600 dark:text-gray-400">✨ Create magical recipes with AI</p>
+          <p className="text-lg text-gray-600 dark:text-gray-400">✨ Create magical recipes with Itamar</p>
         </div>
 
         <div className="card p-8 md:p-10 space-y-8">
